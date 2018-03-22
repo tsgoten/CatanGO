@@ -94,6 +94,7 @@ public class MainActivity extends AppCompatActivity {
         resources.add(new Resource("Wool", R.drawable.wool));
         resources.add(new Resource("Grain", R.drawable.grain));
         resources.add(new Resource("Ore", R.drawable.ore));
+        //currentResourcePosition = 5;
 
         diceRoll(radioButtons);
 
