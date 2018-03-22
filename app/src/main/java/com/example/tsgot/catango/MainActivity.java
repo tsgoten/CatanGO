@@ -49,6 +49,8 @@ public class MainActivity extends AppCompatActivity {
     int currentResourcePosition;
 
 
+    //This project is called CatanGO
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
