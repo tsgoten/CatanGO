@@ -48,6 +48,8 @@ public class MainActivity extends AppCompatActivity {
     Resource resourceCurrent;
     int currentResourcePosition;
 
+    //This is the edit for branch one...
+
 
     //This project is called CatanGO
 
